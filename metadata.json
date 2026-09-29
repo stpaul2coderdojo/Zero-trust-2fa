@@ -1,0 +1,6 @@
+{
+  "name": "TypingDNA Passcode",
+  "description": "Passwordless authentication using TypingDNA typing biometrics with real-time keystroke dynamics and biometric DNA profile visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
